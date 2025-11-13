@@ -6,6 +6,7 @@ import com.pack1.B.Cat;
 import com.pack1.B.Dog;
 import com.pack1.C.Lion;
 import com.pack1.D.Mouse;
+import com.pack1.E.Tom;
 
 /**
  * Hello world!
@@ -26,5 +27,8 @@ public class App {
        
        Animal ani3=new Mouse();
        ani3.run();
+       
+       Animal ani4=new Tom();
+       ani4.run();
     }
 }
