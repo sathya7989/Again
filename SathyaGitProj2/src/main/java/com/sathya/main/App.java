@@ -22,5 +22,8 @@ public class App {
        
        Animal ani2=new Lion();
        ani2.run();
+       
+       
+     
     }
 }
