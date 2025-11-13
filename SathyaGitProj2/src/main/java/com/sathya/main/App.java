@@ -25,10 +25,15 @@ public class App {
        Animal ani2=new Lion();
        ani2.run();
        
+<<<<<<< HEAD
        Animal ani3=new Mouse();
        ani3.run();
        
        Animal ani4=new Tom();
        ani4.run();
+=======
+       
+     
+>>>>>>> refs/heads/masterSathya2
     }
 }
